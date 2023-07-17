@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Roboto:wght@400;700&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 * {
     box-sizing: border-box;
@@ -15,3 +16,9 @@ body {
 }
 
 /* Add any css you like*/
+
+.text {
+    flex-wrap: wrap;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
